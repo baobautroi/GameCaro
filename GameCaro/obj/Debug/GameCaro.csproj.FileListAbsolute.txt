@@ -1,0 +1,27 @@
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\bin\Debug\hsCustomControl.dll
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\bin\Debug\hsCustomControl.pdb
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.Up2Date
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.FormStart.resources
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\bin\Debug\hsCustomControl.dll
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\bin\Debug\hsCustomControl.pdb
+C:\Users\Bao Ngo\Downloads\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.Up2Date

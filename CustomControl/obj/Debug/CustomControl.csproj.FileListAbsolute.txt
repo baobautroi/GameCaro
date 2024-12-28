@@ -1,0 +1,8 @@
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\CustomControl\bin\Debug\hsCustomControl.dll
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\CustomControl\bin\Debug\hsCustomControl.pdb
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\CustomControl\obj\Debug\CustomControl.csproj.AssemblyReference.cache
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\CustomControl\obj\Debug\hsCustomControl.Draw3dRect.resources
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.cache
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\CustomControl\obj\Debug\CustomControl.csproj.CoreCompileInputs.cache
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\CustomControl\obj\Debug\hsCustomControl.dll
+C:\Users\Bao Ngo\Desktop\Caro\Game-Caro\GameCaro\CustomControl\obj\Debug\hsCustomControl.pdb
